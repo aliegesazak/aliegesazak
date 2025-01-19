@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **C, Html, Css, MSSQL**
 
-- 👨‍💻 All of my projects are available at [aliegesazak.com](aliegesazak.com)
+- 👨‍💻 All of my projects are available at [aliegesazak.com](https://aliegesazak.com/)
 
 - 💬 Ask me about **Artificial intelligence**
 
 - 📫 How to reach me **iletisim@aliegesazak.com**
 
-- 📄 Know about my experiences [aliegesazak.com](aliegesazak.com)
+- 📄 Know about my experiences [aliegesazak.com](https://aliegesazak.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
